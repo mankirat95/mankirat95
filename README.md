@@ -1,4 +1,4 @@
-👋 Hi, I’m Mankirat Singh
+<p>👋 Hi, I’m Mankirat Singh</p>
 👨‍💻 I’m a Web Developer with good knowledge in modern technologies.
 📚 I love reading, 🚘 driving.
 
